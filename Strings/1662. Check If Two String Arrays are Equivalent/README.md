@@ -25,7 +25,6 @@ Output: false
 Input: word1  = ["abc", "d", "defg"], word2 = ["abcddefg"]
 
 Output: true
- 
 
 ## Constraints:
 
@@ -36,7 +35,6 @@ Output: true
 1 <= sum(word1[i].length), sum(word2[i].length) <= 10<sup>3</sup>
 
 word1[i] and word2[i] consist of lowercase letters.
-
 
 # Submission details:
 
