@@ -17,7 +17,7 @@ Output: 1
 
 The number of nodes in the tree is in the range [2, 104].
 
-0 <= Node.val <= 105
+0 <= Node.val <= 10<sup>5</sup>
 
 # Submission details:
 
