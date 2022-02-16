@@ -1,4 +1,4 @@
-# Question number: [45](https://leetcode.com/problems/permutations/)
+# Question number: [46](https://leetcode.com/problems/permutations/)
 
 ## Difficulty: Medium
 Given an array nums of distinct integers, return all the possible permutations. You can return the answer in any order.
