@@ -1,25 +1,30 @@
 # Question number: [45](https://leetcode.com/problems/jump-game-ii/)
 
 ## Difficulty: Medium
-Given an array nums of distinct integers, return all the possible permutations. You can return the answer in any order.
+Given an array of non-negative integers nums, you are initially positioned at the first index of the array.
+
+Each element in the array represents your maximum jump length at that position.
+
+Your goal is to reach the last index in the minimum number of jumps.
+
+You can assume that you can always reach the last index.
 
 ## Example 1:
-Input: nums = [1,2,3]
+Input: nums = [2,3,1,1,4]
 
-Output: [[1,2,3],[1,3,2],[2,1,3],[2,3,1],[3,1,2],[3,2,1]]
+Output: 2
+
+Explanation: The minimum number of jumps to reach the last index is 2. Jump 1 step from index 0 to 1, then 3 steps to the last index.
 
 ## Constraints:
-1 <= nums.length <= 6
-
--10 <= nums[i] <= 10
-
-All the integers of nums are unique.
+1 <= nums.length <= 10<sup>4</sup>
+0 <= nums[i] <= 1000
 
 # Submission details:
 
-26 / 26 test cases passed.
+106 / 106 test cases passed.
 
-Runtime: 48 ms
+Runtime: 209 ms
 
-Memory Usage: 13.9 MB
+Memory Usage: 15.3 MB
 
